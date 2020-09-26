@@ -1,3 +1,35 @@
+## Project Folder Structure
+
+```
+machinetest-kredence
+├─ .git
+├─ .gitignore
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  └─ robots.txt
+├─ README.md
+└─ src
+   ├─ components
+   │  ├─ App.js
+   │  ├─ Header.js
+   │  ├─ Home.js
+   │  ├─ Login.js
+   │  ├─ Tasks.js
+   │  └─ User.js
+   ├─ firebase.js
+   ├─ index.css
+   └─ index.js
+
+```
+
+## React JS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
